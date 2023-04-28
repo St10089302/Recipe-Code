@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\bin\Debug\net6.0\ExamplePoe.exe
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\bin\Debug\net6.0\ExamplePoe.deps.json
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\bin\Debug\net6.0\ExamplePoe.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\bin\Debug\net6.0\ExamplePoe.dll
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\bin\Debug\net6.0\ExamplePoe.pdb
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.dll
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\refint\ExamplePoe.dll
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.pdb
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ExamplePoe.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\Prog\ExAmple\ExamplePoe\ExamplePoe\obj\Debug\net6.0\ref\ExamplePoe.dll
